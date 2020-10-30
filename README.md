@@ -16,3 +16,8 @@ npm install
 # Run the app
 npm start
 ```
+
+## NOTES:
+- here is the API website: https://covidtracking.com/data/api
+	- link this URL to the application HTML file
+- here is some sample code on FETCH request with Electron: https://www.geeksforgeeks.org/http-rest-api-calls-in-electronjs/

@@ -1,0 +1,13 @@
+body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+footer {
+	color: #008B8B;
+	margin: 10px;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	text-align: center;
+}
